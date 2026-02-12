@@ -1,4 +1,4 @@
-# SR715 / SR720 Calibration Utility
+# SR715 / SR720 Calibration Backup Utility
 
 Python utility for communicating with **Stanford Research Systems SR715 and SR720 LCR meters** over RS-232.
 
